@@ -8,4 +8,12 @@
 
 - PSP
 
+## Bibliografía
 
+- Oracle Documentación oficial - InetAddress, Inet4Address, Inet6Address
+
+  https://docs.oracle.com/javase/8/docs/api/java/net/Inet4Address.html#format
+
+  https://docs.oracle.com/javase/8/docs/api/java/net/InetAddress.html#getAddress--
+
+  https://docs.oracle.com/javase/8/docs/api/java/net/Inet6Address.html#format
