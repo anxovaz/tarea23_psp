@@ -23,7 +23,7 @@ public class Main {
         while(true){
             System.out.println("Introduce un dominio (escribe salir para salir): ");
             dominio = sc.next().toLowerCase(); //convierte la entrada del scanner a minúsculas
-            if(dominio.compareTo("salir") == 0){ //si el usuario indicó salir hace un break que sale del for infinito
+            if(dominio.compareTo("salir") == 0){ //si el usuario indicó salir hace un break que sale del while infinito
                 break;
             }
 
