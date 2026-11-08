@@ -8,6 +8,22 @@
 
 - PSP
 
+## Clase `Direcciones`
+
+Esta clase contiene los siguientes métodos:
+
+- `getLocalName()`-> Devuelve el `hostname` del anfitrión
+
+- `getLocalIP()` -> Devuelve la `ip` del anfitrión
+
+- `getIPsV6Dominio()` -> Devuelve una lista de direcciones `IPv6` de un dominio
+
+- `getIPsV4Dominio()` -> Devuelve una lista de direcciones `IPv4` de un dominio
+
+### Métodos `getIPsV6Dominio()` y `getIPsV4Dominio()`
+
+
+
 ## Bibliografía
 
 - Oracle Documentación oficial - InetAddress, Inet4Address, Inet6Address
